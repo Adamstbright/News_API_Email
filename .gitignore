@@ -3,3 +3,5 @@
 .idea/inspectionProfiles/profiles_settings.xml
 .venv
 .idea
+.image.jpg
+.download_image_through_url.py

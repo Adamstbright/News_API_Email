@@ -6,7 +6,6 @@ topic = "tesla"
 API_key = "64b6d1be92844673a1ee15a3eb68c0a8"
 url = "https://newsapi.org/v2/everything?" \
       f"q={topic}&" \
-      "from=2023-03-07&" \
       "sortBy=publishedAt&" \
       "apiKey=64b6d1be92844673a1ee15a3eb68c0a8&" \
       "language=en"
